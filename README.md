@@ -5,7 +5,7 @@ The goal is to show how EF Core reads configuration from conventions, Data Annot
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This repo helps you understand:
 
@@ -17,7 +17,7 @@ This repo helps you understand:
 
 ---
 
-## 🚀 Running the Projects
+## Running the Projects
 
 Each project is independent. Just:
 
@@ -27,7 +27,7 @@ Each project is independent. Just:
 
 ---
 
-## 📘 EF Core Features Covered
+## EF Core Features Covered
 
 ✔ Conventions  
 ✔ Data Annotations  
