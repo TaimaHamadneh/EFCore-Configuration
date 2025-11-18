@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CallGroupingConfigurationUsingAssembly/CallGroupingConfigurationUsingAssembly.csproj" />
+  <Project Path="ConfigurationByConvention/ConfigurationByConvention.csproj" />
+  <Project Path="OverrideConfiguratiobByGroupingConfiguration/OverrideConfiguratiobByGroupingConfiguration.csproj" />
+  <Project Path="OverrideConfigurationByDataAnnotations/OverrideConfigurationByDataAnnotations.csproj" />
+  <Project Path="OverrideConfigurationUsingFluentAPI/OverrideConfigurationUsingFluentAPI.csproj" />
+</Solution>
